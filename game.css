@@ -1,0 +1,10 @@
+body
+{
+    text-align: center;
+    background-color: red;
+}
+#loginButton
+{
+  width: 30%;
+  color: blue;  
+}
